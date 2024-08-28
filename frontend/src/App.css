@@ -1,0 +1,26 @@
+:root {
+  /* Primary Colors */
+  --primary-blue: #007bff;
+  --light-blue: #e3f2fd;
+  --dark-blue: #0056b3;
+
+  --primary-green: #28a745;
+  --light-green: #d4edda;
+  --dark-green: #1e7e34;
+
+  /* Neutral Colors */
+  --white: #ffffff;
+  --light-gray: #f8f9fa;
+  --medium-gray: #6c757d;
+  --dark-gray: #343a40;
+
+  /* Accent Colors */
+  --teal: #20c997;
+  --dark-teal: #17a2b8;
+  --orange: #fd7e14;
+  --dark-orange: #e36706;
+
+  /* Text Colors */
+  --text-primary: #212529;
+  --text-secondary: #6c757d;
+}
